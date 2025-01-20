@@ -1,16 +1,29 @@
 # gunlugum_defteri
 
-A new Flutter project.
+https://github.com/user-attachments/assets/63ab8335-2e37-4af4-98dc-effae818bdf1
 
-## Getting Started
+# proje Üyeleri : yasser murad -- 132130116
 
-This project is a starting point for a Flutter application.
+# Günlük Defterim  
 
-A few resources to get you started if this is your first Flutter project:
+## Proje Açıklaması  
+**Günlük Defterim**, kişisel notlarınızı kaydedebileceğiniz, düzenleyebileceğiniz ve hislerinizi yazabileceğiniz basit ve kullanışlı bir uygulamadır. Bu uygulama, kullanıcıların günlüklerini organize bir şekilde tutmalarını sağlar.  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Özellikler  
+- **Not Oluşturma**: Kullanıcılar yeni notlar ekleyebilir.  
+- **Not Düzenleme**: Mevcut notları kolayca düzenleyebilirsiniz.  
+Duygularınızı Yansıtma**: Günlük girişlerinde ruh halinizi ve hislerinizi ifade edin.  
+- **Kolay Kullanım**: Minimalist ve kullanıcı dostu bir arayüz.
+
+- ![e323e122-21c1-40c6-9d6f-835a2769fc03](https://github.com/user-attachments/assets/92341ec3-bbd2-44bd-9754-a7f964d12412)
+
+![5291fe44-3f2a-4334-a9f2-a9e33c6aa672](https://github.com/user-attachments/assets/00946baa-5c9a-48eb-b53e-7f1cda5b5c91)
+
+
+# iletişim
+**Email**: yaser.muradd@gmail.com
+**Numara**:05462806604
+
+
